@@ -1,0 +1,145 @@
+class AM{
+
+  int l;
+  int m;
+
+  public:
+  int a;
+  int b;
+  int c;
+
+  private:
+  int d;
+  int e;
+  int f;
+
+  public:
+  int x;
+  int y;
+}
+
+class CC{
+public: int c;
+}
+
+class AA{
+public: CC b;
+
+def int fn()
+{
+
+}
+}
+
+
+class BB{
+public: AA a;
+}
+
+BB obj;
+
+float s;
+while(obj.a.b.c<6 && s*6!=8){}
+
+obj.a.fn();
+for(float a=0; obj.a.fn()-2-s<5; ++a){
+  int l;
+}
+
+def int exp(){
+  float a,b,c,d,e;
+  a = a+b>=c||(a-b)*d/e&&(a<b*c/d)/(a||(b>c));
+}
+
+int i,b;
+while(i){
+  int b;
+  int c;
+
+  while(b){
+    int d;
+
+    while(c){
+        int t;
+    }
+    int b;
+
+    while(d){
+        int t;
+    }
+  }
+
+  while(i){
+        int t;
+    }
+
+}
+int q;
+
+class A{
+
+  def A a(int a){
+    int b;
+    A v;
+  }
+  def A b(A a){
+    int b;
+    A v;
+  }
+  def A c(int a){
+    int b;
+    A v;
+  }
+  def int fnB(int b,char k,string p){
+    int a,m;
+    int c;
+  }
+
+  def A a(){}
+  def static A b(){}
+  def A[] c(){}
+  def const A d(){}
+  def virtual A e(){}
+
+  A a;
+  static A c;
+  static A e;
+  const A f;
+  A g[5],h[3];
+  A x[9];
+
+}
+
+int m;
+
+int a;
+if(a){
+   int a;
+}
+else{
+   int a;
+}
+
+if(a){
+   int a;
+}
+else if(a){
+   int a;
+}
+int qq;
+
+if(a){
+  if(a){
+    if(a){
+      int b;
+    }
+  }
+  else if(a){
+    int  b;
+  }
+}
+
+int ii,bb,aa;
+while(aa+b/i+b+i-b*i/b%i){ }
+
+int cc;
