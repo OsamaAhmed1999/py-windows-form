@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06ffbbe9-39d3-4070-be54-78fee9a60c4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/ICG.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/compiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/compiler1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/insert TM, Object type fn, commit semantic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/insert class declaration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/insert declaration semantic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler ICG.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler OE working.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler array inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler assignment and inc_dec inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler assignment inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler before SST change.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler complete dec inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler constructor inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler fn inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler function inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler increment decrement working.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler last working.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler scope stack inserted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/new compiler syntax.py" beforeDir="false" />
-    </list>
+    <list default="true" id="06ffbbe9-39d3-4070-be54-78fee9a60c4b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,6 +292,14 @@
       <option name="presentableId" value="Default" />
       <updated>1576846686866</updated>
     </task>
+    <task id="LOCAL-00001" summary="python windows form">
+      <created>1579125182702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579125182702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,6 +323,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python windows form" />
+    <option name="LAST_COMMIT_MESSAGE" value="python windows form" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Code/insert AM, Object type fn, commit semantic.py" />
